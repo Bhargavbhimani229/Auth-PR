@@ -6,12 +6,6 @@ A modern, fully authenticated Employee Management System built using React, Fire
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](./screenshot.png)
-
----
-
 ## 🚀 Features
 
 - 🔐 Google & Email/Password Firebase Authentication
